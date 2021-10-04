@@ -1,0 +1,8 @@
+Memory.c:24:6:Start_Flash_Programm	8	static
+Memory.c:32:6:Flash_Programm	24	static
+Memory.c:49:6:Stop_Flash_Programm	8	static
+Memory.c:57:6:Erase_Application	40	static
+Memory.c:74:6:Start_Flash_Read	8	static
+Memory.c:112:6:Stop_Flash_Read	8	static
+Memory.c:83:6:Flash_Read	24	static
+Memory.c:120:6:Decode_USB_Packet	8	static
